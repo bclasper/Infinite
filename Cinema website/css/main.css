@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
+body {
+  background-color: black;
+}
+
+a {
+  color: red;
+}
+
+section {
+  font-family: serif;
+}
+
+div.fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+tr {
+  color: red;
+}
